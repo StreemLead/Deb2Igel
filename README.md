@@ -12,7 +12,7 @@ Deb2Igel aims to reduce the efforts to create such packages for custom partition
 
 # Required
 
-**Linux workstation with APT-GET**
+**Linux workstation with APT-GET & DPKG**
 
 # Usage
 
